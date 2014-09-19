@@ -1,7 +1,7 @@
 Trusting SSL certificates
 ========
  
-I wrote this shell script to download server cert from <server_address> & give user specific <cert_name> to cert. 
+I wrote this shell script to download server cert from <i>server_address</i> & give user specific <i>cert_name</i> to cert. 
 After downloading it'll start generating the keystore for which user need to give <keystore_password>. 
 ASAP keystore generated, it'll verify keystore using same <keystore_password>, which user need to enter for verification.
  
